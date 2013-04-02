@@ -1,0 +1,33 @@
+{
+    "name": "express-repl",
+    "author": {
+	"name": "Alexandre Strzelewicz",
+	"email": "strzelewicz.alexandre@gmail.com"
+    },
+    "description": "Express Repl - routes, controller listing, access to app express variable",
+    "version": "0.0.1",
+    "main": "./index.js",
+    "bin": {
+	"repl": "./bin/repl.js"
+    },
+    "private": false,
+    "dependencies": {
+    },
+    "repository": {
+	"type": "git",
+	"url": "git://github.com/Alexandre-Strzelewicz/angular-bridge.git"
+    },
+    "devDependencies": {
+	"mocha": "*",
+	"should": "*"
+    },
+    "homepage": "https://github.com/Alexandre-Strzelewicz/angular-bridge",
+    "readmeFilename": "README.md",
+    "_npmUser": {
+	"name": "tknew",
+	"email": "strzelewicz.alexandre@gmail.com"
+    },
+    "engines": {
+	"node": "*"
+    }
+}
